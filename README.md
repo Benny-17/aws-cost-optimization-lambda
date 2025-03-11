@@ -77,4 +77,4 @@ Add logs using `print()` or `logging` to track the function's activity and simpl
 
 ---
 
-### 🔗 **GitHub:** [https://github.com/benny17](https://github.com/benny17)  
+### 🔗 **GitHub:** [https://github.com/Benny-17](https://github.com/Benny-17)  
