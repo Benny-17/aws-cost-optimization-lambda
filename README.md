@@ -26,8 +26,8 @@ Run the function manually.
 Confirm that stale snapshots are deleted from the AWS console.
 
 - Outcome
- - Reduced storage costs by deleting unused EBS snapshots.
- - Automated cleanup to avoid manual effort.
+  -- Reduced storage costs by deleting unused EBS snapshots.
+  -- Automated cleanup to avoid manual effort.
 
 ## Technologies Used
 AWS Lambda
